@@ -1,6 +1,6 @@
 ## Data-Analysis-Machine-Learning-with-R
 
-Here I have worked with most of the predictions algorithms and classification:
+Here I have worked with most of the predictions and classification algorithms:
 
 1. Linear Regression
 2. Logistic Regression
