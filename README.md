@@ -1,6 +1,6 @@
 ## Data-Analysis-Machine-Learning-with-R
 
-Here I have worked with most of the predictions and classification algorithms:
+In the following exercises, I have worked with most of the predictions and classification algorithms in R programing language:
 
 1. Linear Regression
 2. Logistic Regression
